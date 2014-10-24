@@ -1,7 +1,7 @@
 # Ken Leung - Dynamic Web Apps 15
 
 ## Live URL
-<http://p3.kennethleung23-dwa15.biz/dwa15_p3/index.php>
+<http://p3.kennethleung23-dwa15.biz>
 
 ## GitHub URL
 <https://github.com/kennethleung23/dwa15_p3>
