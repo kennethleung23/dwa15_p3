@@ -1,0 +1,99 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300);
+
+body{
+	font-family: 'roboto', 'sans-serif';
+	margin: 0px;
+	padding: 30px;
+	padding-top: 60px;
+}
+
+.return_button{
+	background-color: #81BDFC;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+ 	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition:.5s;
+
+}
+
+div.return_button:hover{
+	background-color: #50A3FA;
+}
+
+.right_align{
+	position: absolute;
+	right: 30px;
+	}
+
+
+h1{
+	text-align: center;
+	font-weight: 300;
+	font-size: 46pt;
+	padding: 0px 20px 20px;
+	margin: 0px 0px 30px 0px;
+}
+
+a{
+	color: #00BFFF;
+	text-decoration: none;
+}
+
+a.button{
+	padding: 20px;
+	background-color: #eee;
+	border-radius: 10px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+ 	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition:.5s;
+
+}
+
+h2.left{
+	float: left;
+	margin-left: 20%;
+
+
+
+}
+
+h2.right{
+
+	float: right;
+	margin-right: 20%;
+}
+
+a:visited{
+	color: #00BFFF;
+	text-decoration: none;
+}
+
+
+
+a:hover{
+	background-color: #ccc;
+}
+
+.fade_underline{
+	display: inline-block;
+	padding: 0px;
+	border-bottom: 1px solid;
+	border-color: transparent;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+ 	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition:.5s;
+}
+
+.fade_underline:hover{
+	border-color: black;
+}
