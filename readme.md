@@ -10,7 +10,7 @@
 Create a web application called Developer's Best Friend which includes a Lorem Ipsum Generator and a Random User Generator.
 
 ## Demo
-Will be presenting a live demo in my session on next Wednesday.
+Recorded Demo: http://screencast.com/t/6gqOgU30z
 
 ## Details for teaching team
 No login required.
